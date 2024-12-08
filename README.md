@@ -1,6 +1,9 @@
 # llm_project
 project covers from data_preparation ~ inference
 
+## used language, tool .. #
+python , ray , spark , 
+
 ## Data_stage ##
 1) pdf foldes in local + url -> data_processing -> input
 
