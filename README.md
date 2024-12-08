@@ -13,7 +13,7 @@ authors : "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jon
 
 2) Data_stage consists of makerfile(not yet) , requirements.txt(not yet) , data_ready.py , data_concat.py, data_processing.py
 
-3) sample result :
+3) sample result I randomly cropped:
 "Page 2:
 1
 Introduction
