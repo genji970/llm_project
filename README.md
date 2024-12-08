@@ -2,7 +2,7 @@
 project covers from data_preparation ~ inference
 
 ## used language, tool .. ##
-python , ray , spark , 
+python , ray , 
 
 ## sample used ##
 In this project, I used pdf named "attention is all you need". This paper is famous in ai field.
